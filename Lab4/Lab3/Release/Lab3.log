@@ -1,0 +1,34 @@
+﻿Build started 16/10/2015 12:44:40.
+     1>Project "C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab3\Lab3\Lab3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab3\glew-1.10.0\include" /I"C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab3\freeglut\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\main.cpp
+         main.cpp
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab3\teapot.h(2980): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab3\teapot.h(2980): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab3\teapot.h(5959): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab3\teapot.h(5959): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab3\teapot.h(8938): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab3\teapot.h(8938): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>..\main.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(140): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+     1>..\main.cpp(144): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+     1>..\main.cpp(182): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>..\main.cpp(190): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>..\main.cpp(194): error C2374: 'view': redefinition; multiple initialization
+         ..\main.cpp(181): note: see declaration of 'view'
+     1>..\main.cpp(195): error C2374: 'persp_proj': redefinition; multiple initialization
+         ..\main.cpp(182): note: see declaration of 'persp_proj'
+     1>..\main.cpp(195): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>..\main.cpp(196): error C2374: 'model': redefinition; multiple initialization
+         ..\main.cpp(183): note: see declaration of 'model'
+     1>..\main.cpp(200): error C2198: 'PFNGLUNIFORMMATRIX4FVPROC': too few arguments for call
+     1>..\main.cpp(201): error C2198: 'PFNGLUNIFORMMATRIX4FVPROC': too few arguments for call
+     1>..\main.cpp(202): error C2198: 'PFNGLUNIFORMMATRIX4FVPROC': too few arguments for call
+     1>..\main.cpp(203): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>..\main.cpp(217): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+     1>Done Building Project "C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab3\Lab3\Lab3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.43

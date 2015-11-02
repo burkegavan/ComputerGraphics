@@ -1,0 +1,45 @@
+﻿Build started 27/10/2015 11:54:19.
+     1>Project "C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab4\Lab3\Lab3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab3\freeglut\include" /I"C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab3\glew-1.10.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\main.cpp
+         main.cpp
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\teapot.h(2980): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\teapot.h(2980): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\teapot.h(5959): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\teapot.h(5959): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\teapot.h(8938): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\teapot.h(8938): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(138): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(142): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(178): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(189): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(198): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(209): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(222): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(230): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(238): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(247): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(253): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(259): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(266): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(272): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(280): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(286): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(292): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(298): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(304): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(312): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(324): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(330): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(336): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(342): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\users\gavan\desktop\gavan\4th year\graphics\lab4\main.cpp(348): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab4\Debug\Lab3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab3\freeglut\lib" /LIBPATH:"C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab3\glew-1.10.0\lib\Release\Win32" freeglut.lib glew32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab4\Debug\Lab3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab4\Debug\Lab3.lib" /MACHINE:X86 Debug\main.obj
+         Debug\maths_funcs.obj
+         Lab3.vcxproj -> C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab4\Debug\Lab3.exe
+     1>Done Building Project "C:\Users\Gavan\Desktop\Gavan\4th Year\Graphics\Lab4\Lab3\Lab3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.90
